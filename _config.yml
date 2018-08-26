@@ -1,0 +1,36 @@
+# site settings
+title: Roosters
+subtitle: 
+email: roman.bartusiak@gmail.com
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: https://roosters.io # the base hostname & protocol for your site
+author: Roman Bartusiak
+street_address: 
+city: Wroclaw
+state: 
+zip_code: 
+country: Poland
+phone: 
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+# 500px_url:
+# facebook_url:
+github_url: https://github.com/roostersio
+# gitlab_url:
+# googleplus_url:
+# instagram_url:
+# linkedin_url:
+# pinterest_url:
+# slack_url:
+# twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
